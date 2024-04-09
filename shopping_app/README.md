@@ -2,7 +2,7 @@
 
 This is a simple Shoes Shopping App.
 
-This application is not quite for completely beginner programmers, advanced logic and state management tools have been implemented in this application.
+This application is not exactly for completely beginner programmers; advanced logic and state management tools have been implemented in this application.
 
 But, since the codebase is completely documented in simple English, beginnner programmers can easily go through the codes, understand it, and try to built this application on thier own.
 
@@ -17,4 +17,4 @@ This application is also built responsive for running it seamlessly on desktop/ 
 
 State management has also been implemented in this application using [Provider](https://pub.dev/packages/provider) package.
 
-**No other programming language other than _Dart Programming Language_ has been used to build this application.**
+**This application is entirely built using the _Dart Programming Language_ in _Flutter framework_.**
