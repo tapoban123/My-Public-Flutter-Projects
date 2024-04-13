@@ -10,6 +10,9 @@
 .svn/
 migrate_working_dir/
 
+# User will place private contents in this file
+.env
+
 # IntelliJ related
 *.iml
 *.ipr
